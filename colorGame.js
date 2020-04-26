@@ -80,41 +80,41 @@ function reset(){
 	
 
 
-// easyBtn.addEventListener("click", function(){
-	// easyBtn.classList.add("selected");
-	// hardBtn.classList.remove("selected");
-	// numSquares=3;
-	// colors = generateRandomColors(numSquares);
-	// pickedColor = pickColor();
-	// colorDisplay.textContent = pickedColor;
-	// for (var i = 0; i < squares.length; i++) {
-	// if(colors[i]){
-		// squares[i].style.background = colors[i];
-		
-	// }
-	// else {
-		// squares[i].style.display = "none";
-	// }
-	
-	// }
-// });
 
 
-// hardBtn.addEventListener("click", function(){
-	// numSquares = 6;
-	// hardBtn.classList.add("selected");
-	// easyBtn.classList.remove("selected");
-	// colors = generateRandomColors(numSquares );
-	// pickedColor = pickColor();
-	// colorDisplay.textContent = pickedColor;
-	// for (var i = 0; i < squares.length; i++) {
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
-		// squares[i].style.background = colors[i];
-		// squares[i].style.display = "block";
-	// }
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
 	
 	
-// })
+
 
 resetButton.addEventListener("click", function(){
 	reset();
